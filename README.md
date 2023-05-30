@@ -4,6 +4,14 @@
 
 So, this mini app is like college assignment.
 
+For GUI I used PySimpleGUI - https://www.pysimplegui.org/en/latest/
+
+![image](https://github.com/Iwlj4s/pywithGUI/assets/113620590/fc2eaaa5-dfc2-4e8f-80bf-60bdff0bcf10)
+
+
+
+
+
 An application that finds the discriminant and its roots (if these roots are)
 
 
