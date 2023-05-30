@@ -27,3 +27,7 @@ An application that finds the discriminant and its roots (if these roots are)
 ![image](https://github.com/Iwlj4s/pywithGUI/assets/113620590/79dd32ac-3756-46a1-ac7b-07b586f1c4bc)
 
 ![image](https://github.com/Iwlj4s/pywithGUI/assets/113620590/9291e8ae-4ad8-4f0a-85fb-45b0a1a42a5c)
+
+
+
+Maybe I'll make the application run without IDLE
